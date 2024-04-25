@@ -1,0 +1,122 @@
+[
+    {
+      "nombre": "El Exorcista",
+      "año": 1973,
+      "duracion": 122,
+      "clasificacion": "R",
+      "genero": "Terror"
+    },
+    {
+      "nombre": "Los Cazafantasmas",
+      "año": 1984,
+      "duracion": 105,
+      "clasificacion": "PG",
+      "genero": "Comedia"
+    },
+    {
+      "nombre": "Duro de Matar",
+      "año": 1988,
+      "duracion": 132,
+      "clasificacion": "R",
+      "genero": "Acción"
+    },
+    {
+      "nombre": "Scream",
+      "año": 1996,
+      "duracion": 111,
+      "clasificacion": "R",
+      "genero": "Terror"
+    },
+    {
+      "nombre": "Loco por Mary",
+      "año": 1998,
+      "duracion": 119,
+      "clasificacion": "R",
+      "genero": "Comedia"
+    },
+    {
+      "nombre": "Misión Imposible",
+      "año": 1996,
+      "duracion": 110,
+      "clasificacion": "PG-13",
+      "genero": "Acción"
+    },
+    {
+      "nombre": "El Conjuro",
+      "año": 2013,
+      "duracion": 112,
+      "clasificacion": "R",
+      "genero": "Terror"
+    },
+    {
+      "nombre": "¿Qué pasó ayer?",
+      "año": 2009,
+      "duracion": 100,
+      "clasificacion": "R",
+      "genero": "Comedia"
+    },
+    {
+      "nombre": "John Wick",
+      "año": 2014,
+      "duracion": 101,
+      "clasificacion": "R",
+      "genero": "Acción"
+    },
+    {
+      "nombre": "Hereditary",
+      "año": 2018,
+      "duracion": 127,
+      "clasificacion": "R",
+      "genero": "Terror"
+    },
+    {
+      "nombre": "Superdetective en Hollywood",
+      "año": 1984,
+      "duracion": 105,
+      "clasificacion": "R",
+      "genero": "Comedia"
+    },
+    {
+      "nombre": "Terminator 2: El juicio final",
+      "año": 1991,
+      "duracion": 137,
+      "clasificacion": "R",
+      "genero": "Acción"
+    },
+    {
+      "nombre": "El Resplandor",
+      "año": 1980,
+      "duracion": 146,
+      "clasificacion": "R",
+      "genero": "Terror"
+    },
+    {
+      "nombre": "Zoolander",
+      "año": 2001,
+      "duracion": 89,
+      "clasificacion": "PG-13",
+      "genero": "Comedia"
+    },
+    {
+      "nombre": "Matrix",
+      "año": 1999,
+      "duracion": 136,
+      "clasificacion": "R",
+      "genero": "Acción"
+    },
+    {
+      "nombre": "Actividad Paranormal",
+      "año": 2007,
+      "duracion": 86,
+      "clasificacion": "R",
+      "genero": "Terror"
+    },
+    {
+      "nombre": "La Máscara",
+      "año": 1994,
+      "duracion": 101,
+      "clasificacion": "PG-13",
+      "genero": "Comedia"
+    }
+]
+  

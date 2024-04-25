@@ -1,0 +1,43 @@
+[
+    {
+      "nombre": "Tacos de pollo",
+      "ingredientes": ["Tortillas de maíz", "Pechuga de pollo", "Tomate", "Cebolla", "Aguacate", "Salsa"],
+      "tiempo_preparacion": "30 minutos",
+      "dificultad": "Fácil",
+      "porciones": 4,
+      "calorias_por_porcion": 350
+    },
+    {
+      "nombre": "Ensalada César",
+      "ingredientes": ["Lechuga romana", "Pechuga de pollo", "Crutones", "Queso parmesano", "Aderezo César"],
+      "tiempo_preparacion": "20 minutos",
+      "dificultad": "Fácil",
+      "porciones": 2,
+      "calorias_por_porcion": 200
+    },
+    {
+      "nombre": "Spaghetti Bolognese",
+      "ingredientes": ["Spaghetti", "Carne molida", "Tomate", "Cebolla", "Ajo", "Vino tinto", "Queso parmesano"],
+      "tiempo_preparacion": "45 minutos",
+      "dificultad": "Media",
+      "porciones": 6,
+      "calorias_por_porcion": 400
+    },
+    {
+      "nombre": "Sopa de verduras",
+      "ingredientes": ["Zanahoria", "Papa", "Apio", "Calabacín", "Cebolla", "Caldo de pollo"],
+      "tiempo_preparacion": "35 minutos",
+      "dificultad": "Fácil",
+      "porciones": 5,
+      "calorias_por_porcion": 150
+    },
+    {
+      "nombre": "Pechuga de pollo al horno",
+      "ingredientes": ["Pechuga de pollo", "Limón", "Ajo", "Romero", "Aceite de oliva", "Sal", "Pimienta"],
+      "tiempo_preparacion": "40 minutos",
+      "dificultad": "Fácil",
+      "porciones": 3,
+      "calorias_por_porcion": 250
+    }
+  ]
+  
