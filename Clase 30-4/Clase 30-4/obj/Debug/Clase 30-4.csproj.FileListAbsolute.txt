@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\bin\Debug\Clase 30-4.exe.config
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\bin\Debug\Clase 30-4.exe
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\bin\Debug\Clase 30-4.pdb
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase 30-4.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase 30-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase_30_4.Form1.resources
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase_30_4.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase 30-4.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase 30-4.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase 30-4.exe
+C:\Users\Alumno\source\repos\Clase 30-4\Clase 30-4\obj\Debug\Clase 30-4.pdb
