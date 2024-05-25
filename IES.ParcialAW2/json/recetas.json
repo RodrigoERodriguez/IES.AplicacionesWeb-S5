@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tarta de Queso",
+    "descripcion": "Receta de la Tia Tita",
+    "ingredientes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Tarta de Queso 2.0",
+    "descripcion": "Receta de la Tia Marta",
+    "ingredientes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

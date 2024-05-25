@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leche",
+    "cantidad": "150",
+    "medicion": "Mililitros"
+  },
+  {
+    "id": 2,
+    "nombre": "Azucar",
+    "cantidad": "150",
+    "medicion": "Gramos"
+  },
+  {
+    "id": 3,
+    "nombre": "crema de leche",
+    "cantidad": "250",
+    "medicion": "gramos"
+  }
+]
